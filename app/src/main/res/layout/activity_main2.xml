@@ -12,7 +12,6 @@
         android:layout_height="56dp"
         android:background="#4682b4"
         android:orientation="horizontal">
-
     </LinearLayout>
 
     <TextView
