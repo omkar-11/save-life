@@ -38,7 +38,6 @@
         android:layout_below="@id/txt"
         android:textColorHint="#000000"/>
 
-
     <EditText
         android:id="@+id/edt2"
         android:hint="Enter a password"
